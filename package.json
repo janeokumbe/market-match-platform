@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "firebase": "^11.8.1"
+  },
+  "name": "market-match-platform",
+  "version": "1.0.0",
+  "description": "A web platform to help small-scale farmers access real-time market prices and connect with local buyers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
